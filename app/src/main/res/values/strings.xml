@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book Explorer</string>
+    <string name="tab_list">Books</string>
+    <string name="tab_details">Details</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="book_cover">Book cover</string>
+    <string name="published_format">Published: %1$s</string>
+</resources>
